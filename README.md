@@ -1,0 +1,2 @@
+# akkok
+işçi maaş hesaplama
